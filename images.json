@@ -1,0 +1,94 @@
+{
+    "images": [
+        {
+            "imgPath": "img/songs/monster.jpg",
+            "name": "Throw Away",
+            "artist": "Future",
+            "album": "Monster",
+            "length": "5:16",
+            "time": "317",
+            "video": "musicvideos/ThrowAway.mp4"
+        },
+        {
+            "imgPath": "img/songs/mbdtf.jpg",
+            "name": "Devil In A New Dress",
+            "artist": "Kanye West feat. Rick Ross",
+            "album": "My Beautiful Dark Twisted Fantasy",
+            "length": "5:51",
+            "time": "352",
+            "video": "musicvideos/DevilInANewDress.mp4"
+        },
+        {
+            "imgPath": "img/songs/meltmyeyez.jpg",
+            "name": "Walkin",
+            "artist": "Denzel Curry",
+            "album": "Melt My Eyez See Your Future",
+            "length": "4:40",
+            "time": "290",
+            "video": "musicvideos/Walkin.mp4"
+        },
+        {
+            "imgPath": "img/songs/monster.jpg",
+            "name": "Codeine Crazy",
+            "artist": "Future",
+            "album": "Monster",
+            "length": "5:46",
+            "time": "363",
+            "video": "musicvideos/CodeineCrazy.mp4"
+        },
+        {
+            "imgPath": "img/songs/tpab.jpg",
+            "name": "The Blacker The Berry",
+            "artist": "Kendrick Lamar",
+            "album": "To Pimp A Butterfly",
+            "length": "5:28",
+            "time": "352",
+            "video": "musicvideos/TheBlackerTheBerry.mp4"
+        },
+        {
+            "imgPath": "img/songs/moon.jpg",
+            "name": "love.",
+            "artist": "Kid Cudi",
+            "album": "The Boy Who Flew to the Moon, Vol. 1",
+            "length": "5:28",
+            "time": "340",
+            "video": "musicvideos/Love.mp4"
+        },
+        {
+            "imgPath": "img/songs/astro.jpg",
+            "name": "STARGAZING",
+            "artist": "Travis Scott",
+            "album": "ASTROWORLD",
+            "length": "4:30",
+            "time": "273",
+            "video": "musicvideos/Stargazing.mp4"
+        },
+        {
+            "imgPath": "img/songs/blonde.jpg",
+            "name": "Nights",
+            "artist": "Frank Ocean",
+            "album": "Blonde",
+            "length": "5:07",
+            "time": "307",
+            "video": "musicvideos/Nights.mp4"
+        },
+        {
+            "imgPath": "img/songs/cmiygl.jpg",
+            "name": "SWEET / I THOUGHT YOU WANTED TO DANCE",
+            "artist": "Tyler, The Creator feat. Brent Faiyaz & Fana Hues",
+            "album": "CALL ME IF YOU GET LOST",
+            "length": "9:48",
+            "time": "576",
+            "video": "musicvideos/Sweet.mp4"
+        },
+        {
+            "imgPath": "img/songs/dicaprio2.jpg",
+            "name": "Off Da Zoinkys",
+            "artist": "JID",
+            "album": "DiCaprio 2",
+            "length": "3:28",
+            "time": "174",
+            "video": "musicvideos/OffDaZoinkys.mp4"
+        }
+  ]
+}
