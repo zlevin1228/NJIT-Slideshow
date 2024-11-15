@@ -21,6 +21,13 @@ $(document).ready(() => {
   $('#prevPhoto').on('click', showPrevPhoto)
   // Call fetchJSON() to load the initial set of images
   fetchJSON()
+  const video = $('#Source').get(0); // Select the video element
+  const muteButton = $('#muteButton'); // Make sure you have a button with this ID in your HTML
+
+  muteButton.click(function() {
+      video.muted = !video.muted; // Toggle the muted property
+      muteButton.text(video.muted ? 'Unmute' : 'Mute'); // Update button text
+  });
 })
 
 // Function to fetch JSON data and store it in mImages

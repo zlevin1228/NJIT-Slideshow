@@ -11,6 +11,7 @@
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="img/mic.png" />
 
     <!-- jQuery -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -21,7 +22,7 @@
 
 <body>
     <div class="ParallaxVideo">
-        <video class="col-12 d-flex overflow-hidden video-parallax" autoplay loop playsinline preload="metadata">
+        <video class="col-12 d-flex overflow-hidden video-parallax" autoplay loop playsinline preload="metadata" id="Source">
           <!--code from Stack Overflow-->
           <source src="musicvideos/ThrowAway.mp4" type="video/mp4" id="Video"/>
         </video>
@@ -48,6 +49,7 @@
 
                 <!-- Photo Details Section -->
                 <div class="col-12 details mt-3 p-2">
+                    <p><b><u>Now Playing:</u></b></p>
                     <p class="name">Song Name: </p>
                     <p class="artist">Artist: </p>
                     <p class="album">Album: </p>
@@ -56,6 +58,7 @@
             </div>
         </div>
     </div>
+    <button class="mute-button" id="muteButton">Mute</button>
 
     <!-- Bootstrap 5 JavaScript (optional) -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
