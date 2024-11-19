@@ -7,7 +7,8 @@
             "album": "Monster",
             "length": "5:16",
             "time": "317",
-            "video": "musicvideos/ThrowAway.mp4"
+            "video": "musicvideos/ThrowAway.mp4",
+            "number": 1
         },
         {
             "imgPath": "img/songs/mbdtf.jpg",
@@ -16,7 +17,8 @@
             "album": "My Beautiful Dark Twisted Fantasy",
             "length": "5:51",
             "time": "360",
-            "video": "musicvideos/DevilInANewDress.mp4"
+            "video": "musicvideos/DevilInANewDress.mp4",
+            "number": 2
         },
         {
             "imgPath": "img/songs/meltmyeyez.jpg",
@@ -25,7 +27,8 @@
             "album": "Melt My Eyez See Your Future",
             "length": "4:40",
             "time": "290",
-            "video": "musicvideos/Walkin.mp4"
+            "video": "musicvideos/Walkin.mp4",
+            "number": 3
         },
         {
             "imgPath": "img/songs/monster.jpg",
@@ -34,7 +37,8 @@
             "album": "Monster",
             "length": "5:46",
             "time": "363",
-            "video": "musicvideos/CodeineCrazy.mp4"
+            "video": "musicvideos/CodeineCrazy.mp4",
+            "number": 4
         },
         {
             "imgPath": "img/songs/tpab.jpg",
@@ -43,7 +47,8 @@
             "album": "To Pimp A Butterfly",
             "length": "5:28",
             "time": "352",
-            "video": "musicvideos/TheBlackerTheBerry.mp4"
+            "video": "musicvideos/TheBlackerTheBerry.mp4",
+            "number": 5
         },
         {
             "imgPath": "img/songs/moon.jpg",
@@ -52,7 +57,8 @@
             "album": "The Boy Who Flew to the Moon, Vol. 1",
             "length": "5:28",
             "time": "340",
-            "video": "musicvideos/Love.mp4"
+            "video": "musicvideos/Love.mp4",
+            "number": 6
         },
         {
             "imgPath": "img/songs/astro.jpg",
@@ -61,7 +67,8 @@
             "album": "ASTROWORLD",
             "length": "4:30",
             "time": "273",
-            "video": "musicvideos/Stargazing.mp4"
+            "video": "musicvideos/Stargazing.mp4",
+            "number": 7
         },
         {
             "imgPath": "img/songs/blonde.jpg",
@@ -70,7 +77,8 @@
             "album": "Blonde",
             "length": "5:07",
             "time": "307",
-            "video": "musicvideos/Nights.mp4"
+            "video": "musicvideos/Nights.mp4",
+            "number": 8
         },
         {
             "imgPath": "img/songs/cmiygl.jpg",
@@ -79,7 +87,8 @@
             "album": "CALL ME IF YOU GET LOST",
             "length": "9:48",
             "time": "576",
-            "video": "musicvideos/Sweet.mp4"
+            "video": "musicvideos/Sweet.mp4",
+            "number": 9
         },
         {
             "imgPath": "img/songs/dicaprio2.jpg",
@@ -88,7 +97,8 @@
             "album": "DiCaprio 2",
             "length": "3:28",
             "time": "174",
-            "video": "musicvideos/OffDaZoinkys.mp4"
+            "video": "musicvideos/OffDaZoinkys.mp4",
+            "number": 10
         }
   ]
 }
